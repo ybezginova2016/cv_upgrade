@@ -1,2 +1,8 @@
-# cv_upgrade
-Deep Learning (Tensorflow)
+## Deep Learning (Tensorflow). Computer Vision
+
+1) Математические основы нейронных сетей
+2) Keras, Tensorflow
+3) Классификация и регрессия
+4) Машинное обучение
+5) Глубокое обучение в технологиях компьютерного зрения
+
